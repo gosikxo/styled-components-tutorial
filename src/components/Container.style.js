@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 export const AppContainer = styled.div`
-  width: 100vw;
+  width: 90vw;
   height: 100vh;
   background-color: #f4f4f4;
 `
